@@ -92,13 +92,13 @@ def get_employees():
                 "id": 1,
                 "name": "John Doe",
                 "email": "john@inter.co",
-                "phone": "0891234567",
+                "phone": "+660891234567",
             },
             {
                 "id": 2,
                 "name": "Jane Doe",
                 "email": "jane@inter.co",
-                "phone": "0891234567",
+                "phone": "+660891234567",
             },
         ],
     }
